@@ -9,5 +9,5 @@ function MainPage() {
     </div>
   );
 }
-
+// 한글 테스트
 export default MainPage;
